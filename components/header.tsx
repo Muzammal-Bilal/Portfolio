@@ -27,7 +27,7 @@ export default function Header() {
             </a>
             <div className="flex items-center space-x-3 ml-4 pl-4 border-l border-gray-200">
               <a
-                href="https://www.linkedin.com/in/muzammal-bilal"
+                href="https://www.linkedin.com/in/muzammal-bilal-51318b24a/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-600 hover:text-blue-600 transition-colors"
@@ -36,7 +36,7 @@ export default function Header() {
                 <Linkedin className="h-5 w-5" />
               </a>
               <a
-                href="https://github.com/muzammalbilal"
+                href="https://github.com/Muzammal-Bilal"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-600 hover:text-gray-900 transition-colors"
@@ -45,7 +45,7 @@ export default function Header() {
                 <Github className="h-5 w-5" />
               </a>
               <a
-                href="https://www.credly.com/users/muzammal-bilal"
+                href="https://www.credly.com/users/muzammal-bilal.4200b977"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-600 hover:text-orange-600 transition-colors"
