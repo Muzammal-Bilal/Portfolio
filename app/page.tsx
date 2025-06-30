@@ -22,8 +22,8 @@ export default function Portfolio() {
       <FYPSection />
       <AchievementsSection />
       <ProjectsSection />
-      <SkillsSection />
       <CertificationsSection />
+      <SkillsSection />
       <ContactSection />
       <Footer />
     </div>

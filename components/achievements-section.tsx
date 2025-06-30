@@ -4,13 +4,13 @@ import { Trophy, Medal, Target } from "lucide-react"
 
 const achievements = [
   {
-    title: "Ripah Computing Challenge Cup",
-    position: "5th Position",
+    title: "NETSOL Technologies Hackathon",
+    position: "Top 68 out of 250+ teams",
     description:
-      "Competed against top teams and secured fifth position, showcasing exceptional problem-solving skills and technical expertise.",
-    icon: Trophy,
-    color: "text-yellow-600",
-    badge: "5th Place",
+      "Successfully reached the top 68 teams out of 250+ participants in the prestigious NETSOL Technologies Hackathon.",
+    icon: Target,
+    color: "text-green-600",
+    badge: "Top 68/250+",
   },
   {
     title: "Codex Programming Competition",
@@ -22,13 +22,13 @@ const achievements = [
     badge: "3rd Place",
   },
   {
-    title: "NETSOL Technologies Hackathon",
-    position: "Top 68 out of 250+ teams",
+    title: "Ripah Computing Challenge Cup",
+    position: "5th Position",
     description:
-      "Successfully reached the top 68 teams out of 250+ participants in the prestigious NETSOL Technologies Hackathon.",
-    icon: Target,
-    color: "text-green-600",
-    badge: "Top 68/250+",
+      "Competed against top teams and secured fifth position, showcasing exceptional problem-solving skills and technical expertise.",
+    icon: Trophy,
+    color: "text-yellow-600",
+    badge: "5th Place",
   },
 ]
 
